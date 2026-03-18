@@ -1,45 +1,66 @@
-# Qa-portfolio
-QA Manual Testing Portfolio | Login Testing Project | Test Cases, Bug Reports &amp; Test Plan
-# QA Portfolio — Login Testing
+# 👨‍💻 QA Tester — Nicolás Bucchino
 
-## About this Project
-This project demonstrates manual testing skills applied to a login functionality.
-
-The goal is to simulate real QA work including:
-- Test planning
-- Test case design
-- Bug reporting
-- Checklist validation
+Junior QA Tester focused on **Manual Testing**, **Bug Reporting**, and **Test Case Design**.  
+Currently building real-world projects to land my first remote opportunity.
 
 ---
 
-## Project Structure
+## 🚀 QA Portfolio Projects
 
-- Test Plan → login-testing/test-plan.md  
-- Test Cases → login-testing/test-cases.md  
-- Bug Reports → login-testing/bug-reports.md  
-- Checklist → login-testing/checklist.md  
+### 🔐 Login Testing Project
+Testing a login functionality simulating real QA work.
 
----
+✔ Test Plan  
+✔ Test Cases  
+✔ Bug Reports  
+✔ Checklist  
 
-## Skills Demonstrated
-
-- Manual Testing
-- Functional Testing
-- Negative Testing
-- Bug Reporting
-- Test Case Design
+📁 View project:  
+👉 login-testing/
 
 ---
 
-## Author
+### 🛒 E-commerce Testing Project
+End-to-end testing of an online store.
 
-Nicolás Bucchino  
-QA Tester (Junior)
+✔ Test Plan  
+✔ Test Cases  
+✔ Bug Reports  
+✔ Checklist  
+
+📁 View project:  
+👉 ecommerce-testing/
 
 ---
 
-## Contact
+## 🧠 Skills
 
-LinkedIn: https://www.linkedin.com/in/nicol%C3%A1s-bucchino-14315a2b1/
-Email: nicolasbucchino@gmail.com
+- Manual Testing  
+- Test Case Design  
+- Bug Reporting  
+- Functional Testing  
+- Exploratory Testing  
+- SDLC Basics  
+
+---
+
+## 🛠 Tools
+
+- Jira (basic)  
+- TestRail (basic)  
+- Git & GitHub  
+- Chrome DevTools  
+
+---
+
+## 📬 Contact
+
+📧 nicolasbucchino@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/nicol%C3%A1s-bucchino-14315a2b1/  
+
+---
+
+## 🎯 Goal
+
+Actively looking for my **first opportunity as a QA Tester (Remote)**.  
+Open to internships, freelance, or junior roles.
