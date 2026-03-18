@@ -36,3 +36,10 @@ The goal is to simulate real QA work including:
 
 Nicolás Bucchino  
 QA Tester (Junior)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/nicol%C3%A1s-bucchino-14315a2b1/
+Email: nicolasbucchino@gmail.com
