@@ -16,7 +16,7 @@ Testing a login functionality simulating real QA work.
 ✔ Checklist  
 
 📁 View project:  
-👉 login-testing/
+👉 [Login Testing](./login-testing)
 
 ---
 
@@ -29,7 +29,7 @@ End-to-end testing of an online store.
 ✔ Checklist  
 
 📁 View project:  
-👉 ecommerce-testing/
+👉 [E-commerce Testing](./ecommerce-testing)
 
 ---
 
